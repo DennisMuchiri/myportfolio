@@ -1,3 +1,4 @@
+```
 /* ------------------------------------------------------
 Template Name: Alime - Photography HTML Template
 Template Author: Colorlib
@@ -71,3 +72,4 @@ alime/
     ├── single-blog.html
     ├── style.css
     ├── style.css.map
+    ```
